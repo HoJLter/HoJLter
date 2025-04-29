@@ -6,18 +6,24 @@
 
 <h3 align="center">
 Hi!👋<br>
-I'm a junior backend python developer 🖥
+I'm a junior backend python developer🖥
 </h3>
 
 <br>
 
 
+<h2 align="center">
+    My contacts
+</h2>
 <div align="center">
-  <a href="https://t.me/HoJLter" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-HoJLter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Email-hojlter.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+[![Email](https://img.shields.io/badge/Email-hojlter.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hojlter.work@gmail.com "Click to copy: hojlter.work@gmail.com")
+<a href="https://t.me/HoJLter" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-HoJLter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
+
 </div>
+
 
 ---
 
