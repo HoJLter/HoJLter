@@ -7,6 +7,8 @@
 <h3 align="center">
 Hi!👋<br>
 I'm a junior backend python developer🖥
+  <br>
+  from Nizhniy Novgorod, Russia 🏘
 </h3>
 
 <br>
