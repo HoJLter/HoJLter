@@ -9,7 +9,7 @@
 </h2>
 
 <h3 align="center">
-  I'm a junior backend python developer🖥 <br>
+  I'm a backend python developer🖥 <br>
   from Nizhniy Novgorod, Russia 🏘
 </h3>
 
